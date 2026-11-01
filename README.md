@@ -1,4 +1,6 @@
-![Mohammad Sherif — programmer portfolio banner](assets/hero.svg)
+**[View my full portfolio →](https://msherif4u.github.io/msherif4u/)**
+
+[![Mohammad Sherif — programmer portfolio banner](assets/hero.svg)](https://msherif4u.github.io/msherif4u/)
 
 # Hi, I'm Mohammad Sherif
 
